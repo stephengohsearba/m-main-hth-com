@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stephengohsearba.github.io/m-main-hth-com/sitemap.xml
